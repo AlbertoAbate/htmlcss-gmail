@@ -1,0 +1,63 @@
+body {
+  background-image: url(../img/background-image.jpg);
+  margin: 60px;
+}
+
+/* header */
+header img {
+  width: 130px;
+  height: 100px;
+}
+
+header h1 {
+  display: inline-block;
+  vertical-align: text-bottom;
+  color: white;
+}
+
+/* main */
+
+/* prima section */
+#forma {
+  border-radius: 5px;
+}
+section h2 {
+  color: white;
+}
+
+section h2 span {
+  width: 35px;
+  height: 35px;
+  background-color: orange;
+  display: inline-block;
+  border-radius: 20px;
+  line-height: 35px;
+  font-size: 29px;
+  vertical-align: middle;
+ }
+
+  /* seconda section */
+  .riga {
+    background-color: lightgrey;
+
+  }
+
+  .riga-sinistra {
+    display: inline-block;
+  }
+
+  .riga-destra {
+    display: inline-block;
+  }
+
+
+  /* footer */
+
+  footer {
+    color: white;
+    text-align: center;
+  }
+
+  footer strong {
+    font-size: 30px;
+  }
